@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.so
+*.log
+*.mp4
+yolov8n.pt

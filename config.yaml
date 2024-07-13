@@ -1,0 +1,8 @@
+defaults:
+  - model: yolov8n.pt
+  - imgsz: 640
+  - source: AI Assignment video.mp4
+
+model: yolov8n.pt
+imgsz: 640
+source: AI Assignment video.mp4

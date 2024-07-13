@@ -1,0 +1,7 @@
+hydra-core
+torch
+opencv-python
+numpy
+pathlib
+deep_sort_pytorch
+ultralytics
